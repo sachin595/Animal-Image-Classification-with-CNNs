@@ -7,18 +7,29 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blueviolet?logo=matplotlib&logoColor=white)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-lightblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
 
+## Animal Image Dataset (Dog, Cat, and Panda)
 
+This repository provides access to a Kaggle dataset of animal images, featuring three classes: Dog, Cat, and Panda.
 
+### Dataset Overview
+
+- **Source**: [Kaggle - Animal Image Dataset (Dog, Cat, and Panda)](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
+- **Categories**:
+  - Dog
+  - Cat
+  - Panda
+- **Format**: The dataset consists of image files organized into respective category folders.
 
 
 ## Are-Pandas-more-like-Cats-or-like-Dogs-?
+
 The project, titled "Are Pandas more like Cats or like Dogs?" involves the development of image classifiers using Convolutional Neural Networks (CNNs) to classify images of Pandas, Cats, and Dogs. The project is divided into three main parts: Initial Reorganization of the data, Panda-vs-Dog Classifier, and Panda-vs-Cat Classifier.
 
 ## Animal Image Dataset (Dog, Cat, and Panda)
 
 This repository provides access to a Kaggle dataset of animal images, featuring three classes: Dog, Cat, and Panda.
 
-## Dataset Overview
+### Dataset Overview
 
 - **Source**: [Kaggle - Animal Image Dataset (Dog, Cat, and Panda)](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
 - **Categories**:
