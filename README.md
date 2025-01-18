@@ -1,4 +1,4 @@
-# Animal Image Classification with CNNs
+# Animal Image Classification with Convolutional Neural Networks
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
