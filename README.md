@@ -7,23 +7,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blueviolet?logo=matplotlib&logoColor=white)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-lightblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
 
-## Animal Image Dataset (Dog, Cat, and Panda)
-
-This repository provides access to a Kaggle dataset of animal images, featuring three classes: Dog, Cat, and Panda.
-
-### Dataset Overview
-
-- **Source**: [Kaggle - Animal Image Dataset (Dog, Cat, and Panda)](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
-- **Categories**:
-  - Dog
-  - Cat
-  - Panda
-- **Format**: The dataset consists of image files organized into respective category folders.
-
-
-## Are-Pandas-more-like-Cats-or-like-Dogs-?
-
-The project, titled "Are Pandas more like Cats or like Dogs?" involves the development of image classifiers using Convolutional Neural Networks (CNNs) to classify images of Pandas, Cats, and Dogs. The project is divided into three main parts: Initial Reorganization of the data, Panda-vs-Dog Classifier, and Panda-vs-Cat Classifier.
+## Abstract
+The Animal Image Classification with CNNs project explores the use of Convolutional Neural Networks (CNNs) to classify images of Pandas, Cats, and Dogs. The primary goal was to determine whether pandas are more similar to cats or dogs through two classifiers: Panda-vs-Dog and Panda-vs-Cat. Using a Kaggle dataset with 1,000 images for each class, models were developed with incremental improvements, including dropout, regularization, and data augmentation. The Panda-vs-Dog classifier achieved a maximum accuracy of 96.0%, while the Panda-vs-Cat classifier achieved 95.5%. The project demonstrates the effectiveness of CNNs and highlights potential improvements using advanced architectures like VGG16.
 
 ## Animal Image Dataset (Dog, Cat, and Panda)
 
