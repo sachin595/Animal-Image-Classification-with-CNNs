@@ -77,3 +77,5 @@ This repository provides access to a Kaggle dataset of animal images, featuring 
 * Acknowledged the challenge of achieving high accuracy in the Panda-vs-Cat classification.
 * Proposed the use of VGG16 architecture for further improvement.
 * All models outperformed random classifiers on the test set.
+
+## For detailed results and analyses of this project, please refer to [report_and_results.pdf](report_and_results.pdf).
