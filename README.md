@@ -78,4 +78,4 @@ This repository provides access to a Kaggle dataset of animal images, featuring 
 * Proposed the use of VGG16 architecture for further improvement.
 * All models outperformed random classifiers on the test set.
 
-## For detailed results and analyses of this project, please refer to [report_and_results.pdf](report_and_results.pdf).
+### For detailed results and analyses of this project, please refer to [report_and_results.pdf](report_and_results.pdf)
